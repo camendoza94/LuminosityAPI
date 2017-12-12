@@ -5,7 +5,7 @@ import org.springframework.data.annotation.Id;
 
 import java.util.Date;
 
-public class Observation {
+public class Measurement {
 
     @Id
     private String id;
